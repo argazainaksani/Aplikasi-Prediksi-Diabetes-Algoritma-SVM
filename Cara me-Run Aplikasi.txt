@@ -1,0 +1,8 @@
+Langkah-langkah
+
+1. Run coba dataset
+2. Run diabetes_model (jangan lupa masukkan dataset)
+3. Run Aplikasi Prediksi Diabetes dan masukkan file SAV (SAV Di bisa didownload di Model
+4. Buat steam-diabetes dengan streamlit di Aplikasi Prediksi Diabetes dan Run dengan menggunakan Local tunnel di  Google Colab
+
+Selesai
